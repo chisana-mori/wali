@@ -1,0 +1,9 @@
+[dotenv@17.2.4] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
+Starting internal OpenCode SDK server...
+Internal OpenCode SDK server running at http://127.0.0.1:64095
+opencode-web backend listening on :3005 (proxying to internal SDK http://127.0.0.1:64095)
+[Proxy] POST /api/session/create -> /session/create
+[Proxy] Upstream status: 200
+[SSE] Connecting to upstream http://127.0.0.1:64095/global/event
+[SSE] Connected to upstream
+Shutting down...
